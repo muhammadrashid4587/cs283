@@ -8,8 +8,8 @@
 - [ ] Something else
 
 ### Linux Setup Confirmation
-- [x] YES
-- [ ] N/A - I plan to use tux
+- [ ] YES
+- [x] N/A - I plan to use tux
 - [ ] NO - Not Yet
 
 ### Repository Link

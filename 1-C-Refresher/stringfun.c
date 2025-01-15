@@ -364,4 +364,4 @@ int main(int argc, char *argv[]){
 }
 
 // #7: Providing both pointer and length is good for preventing overflow,
-//     reusability, and clarity in C.
+//     reusability, and more clarity.
